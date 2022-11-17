@@ -1,0 +1,19 @@
+{
+  "name": "Conviction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Seferog",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.1.0",
+    "discord.js": "^14.3.0",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.2.32",
+    "mongoose": "^6.4.5"
+  }
+}
